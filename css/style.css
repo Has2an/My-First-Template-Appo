@@ -707,7 +707,7 @@ header .right-header i {
 /* End Video */
 /* Start Section */
 .map {
-  background-image: url(/image/map.png);
+  background-image: url(../image/map.png);
   background-size: cover;
   padding-top: 100px;
   padding-bottom: 100px;
